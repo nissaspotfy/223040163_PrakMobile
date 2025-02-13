@@ -1,7 +1,7 @@
 package pertemuan1
 
 fun main(){
-    greeting("Nissa")
+    greeting("bocil")
 }
 
 fun greeting(name: String) {
