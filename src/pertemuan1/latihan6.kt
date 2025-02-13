@@ -6,5 +6,5 @@ fun main(){
 }
 
 fun greetings(name: String) {
-    println("Hallowww $name!")
+    println("Hallo $name!")
 }
